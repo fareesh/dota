@@ -1,4 +1,5 @@
 require 'dota/constants/heroes'
+require 'dota/constants/abilities'
 require 'dota/utils/inspectable'
 
 module Dota
