@@ -1,6 +1,7 @@
 require 'dota/version'
 require 'dota/client'
 
+
 module Dota
   extend SingleForwardable
 
